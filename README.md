@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Banner]([https://raw.githubusercontent.com/monir66/monir66/main/github_banner.png)  
+![My Banner]([https://raw.githubusercontent.com/monir66/monir66/main/github_banner.jpg)  
 <!--
 **tuheen66/tuheen66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
