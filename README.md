@@ -32,7 +32,7 @@ Ultimately, I want my work to solve real-world problems, enhance productivity, a
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuheen66&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tuheen66)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=tuheen66)](https://git.io/streak-stats)
 
 
 
