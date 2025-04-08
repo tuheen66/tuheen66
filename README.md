@@ -9,7 +9,7 @@ As a fullstack MERN developer, I build scalable, modern web applications using N
 <div>
   <img src="https://i.ibb.co.com/CsSvvrSC/javascript.png" alt="Banner" width="10%" />
   <img src="https://i.ibb.co.com/LzXckhbF/typescript-resize.png" alt="Banner" width="10%" />
-  <img src="hhttps://i.ibb.co.com/3YQqm3tQ/react.png" alt="Banner" width="10%" />
+  <img src="https://i.ibb.co.com/3YQqm3tQ/react.png" alt="Banner" width="10%" />
   <img src="https://i.ibb.co.com/5hNnLJbQ/nextjs.png" alt="Banner" width="10%" />
   <img src="https://i.ibb.co.com/23B7CR5W/nodejs.png" alt="Banner" width="10%" />
   <img src="https://i.ibb.co.com/3m8zX2p3/express.png" alt="Banner" width="10%" />
