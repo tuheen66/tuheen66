@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I am Monirul Hassan
+## Fullstack (MERN) Developer
 <img src="https://i.ibb.co.com/HLDjdWyf/github-banner.jpg" alt="Banner" width="100%" />
 <!--
 **tuheen66/tuheen66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
