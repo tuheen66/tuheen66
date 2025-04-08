@@ -16,7 +16,7 @@ As a fullstack MERN developer, I build scalable, modern web applications using N
   <img src="https://i.ibb.co.com/DfC9BCBX/mongodab.png" alt="logo" width="10%" />
   <img src="https://i.ibb.co.com/sdYBS2Jc/redux.png" alt="logo" width="10%" />
   <img src="https://i.ibb.co.com/gb6ZqF7w/tailwind.png" alt="logo" width="10%" />
-  <img src="https://i.ibb.co.com/xqyBNjHL/firebase.png" alt="logo" width="10%" />
+
 </div>
 
 
