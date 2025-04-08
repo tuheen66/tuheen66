@@ -26,6 +26,16 @@ I envision building high-performance, scalable web applications that deliver sea
 My long-term goal is to push the boundaries of fullstack development—adopting best practices, optimizing performance, and integrating cutting-edge technologies like AI-driven features or serverless architectures. I believe in continuous learning, contributing to open-source, and mentoring others to foster innovation in the developer community.
 
 Ultimately, I want my work to solve real-world problems, enhance productivity, and leave a lasting impact in the tech industry.
+
+# Current status
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuheen66&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuheen66&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tuheen66&theme=radical)](https://git.io/streak-stats)
+
+
+
 <!--
 **tuheen66/tuheen66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
