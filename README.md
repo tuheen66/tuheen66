@@ -12,8 +12,8 @@ As a fullstack MERN developer, I build scalable, modern web applications using N
   <img src="https://i.ibb.co.com/3YQqm3tQ/react.png" alt="logo" width="10%" />
   <img src="https://i.ibb.co.com/5hNnLJbQ/nextjs.png" alt="logo" width="10%" />
   <img src="https://i.ibb.co.com/BVz1rPSt/nodejs.png" alt="logo" width="10%" />
-  <img src="https://i.ibb.co.com/3m8zX2p3/express.png" alt="logo" width="11%" />
-  <img src="https://i.ibb.co.com/DfC9BCBX/mongodab.png" alt="logo" width="11%" />
+  <img src="https://i.ibb.co.com/3m8zX2p3/express.png" alt="logo" width="12%" />
+  <img src="https://i.ibb.co.com/DfC9BCBX/mongodab.png" alt="logo" width="12%" />
   <img src="https://i.ibb.co.com/sdYBS2Jc/redux.png" alt="logo" width="10%" />
   <img src="https://i.ibb.co.com/gb6ZqF7w/tailwind.png" alt="logo" width="10%" />
 
