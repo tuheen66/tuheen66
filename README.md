@@ -34,8 +34,8 @@ Ultimately, I want my work to solve real-world problems, enhance productivity, a
 
 
 # Contact info:
-email: hassan.monirul@gmail.com
-cellphone & whatsApp : +8801711591602
+## email: hassan.monirul@gmail.com
+ ## cellphone & whatsApp : +8801711591602
 
 
 <!--
