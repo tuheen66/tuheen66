@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I am Monirul Hassan
 ## Fullstack (MERN) Developer
-<img src="https://i.ibb.co.com/V0tQz89d/github-banner.jpg" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/kg7rJjX2/github.jpg" alt="Banner" width="100%" />
 
 # My work:
 As a fullstack MERN developer, I build scalable, modern web applications using Node.js, Express.js, React.js, Next.js, MongoDB, and Mongoose. On the backend, I develop RESTful APIs with Node & Express, ensuring secure and efficient server-side logic. For databases, I work with MongoDB (NoSQL) using Mongoose for schema modeling. On the frontend, I create dynamic, responsive UIs with React.js, leverage Next.js for SSR/SEO optimization, and manage state seamlessly with Redux. I also use TypeScript for type-safe, maintainable code. My expertise covers the full development lifecycle—from architecture and deployment to performance optimization—delivering robust, user-friendly web solutions.
